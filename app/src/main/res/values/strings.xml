@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WagbaForTracking</string>
+    <string name="title_activity_login">Login_Activity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="Register">Register</string>
+    <string name="RestaurantName">Restaurant Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="EmailAdd">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="LoginHere">Login here</string>
+    <string name="AlreadyAMember">Already a member?</string>
+
+    <string name="RejectOrder">Reject</string>
+
+    <string name="priceTest">EGP1.00</string>
+    <string name="PendingApproval">Pending Approval</string>
+
+    <string name="CheckOrders">Check Incoming Orders</string>
+    <string name="RestaurantSignIn">Sign Restaurant In</string>
+</resources>

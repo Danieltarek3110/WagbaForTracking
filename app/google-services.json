@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "287727661137",
+    "firebase_url": "https://wagba01-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wagba01",
+    "storage_bucket": "wagba01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287727661137:android:2f0b716ebd797180b3c870",
+        "android_client_info": {
+          "package_name": "com.example.wagba01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287727661137-h8v4orgqk08svv17karrns2i594t4agr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMhdCeFx4zvmxO94VUilL5PLpbcukPdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287727661137-h8v4orgqk08svv17karrns2i594t4agr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287727661137:android:70a66f3b945492f0b3c870",
+        "android_client_info": {
+          "package_name": "com.example.wagbafortracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287727661137-h8v4orgqk08svv17karrns2i594t4agr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMhdCeFx4zvmxO94VUilL5PLpbcukPdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287727661137-h8v4orgqk08svv17karrns2i594t4agr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
